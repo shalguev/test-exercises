@@ -1,5 +1,7 @@
+import java.util.Arrays;
 import java.util.Scanner;
-
+import java.util.HashMap;
+//TODO everything
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +15,9 @@ public class Main {
 
         while (y < 8) {
             y++;
+            z++;
+
         }
     }
 }
+// check git access token

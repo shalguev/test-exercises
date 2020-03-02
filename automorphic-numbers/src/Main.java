@@ -8,8 +8,8 @@ public class Main {
         boolean success = false;
 
         try (final Scanner in = new Scanner(System.in)) {
-            a = in.nextInt();
-            b = in.nextInt();
+            a = in.nextLong();
+            b = in.nextLong();
         }
 //TODO make faster - check only for 5, 6-ended numbers and one special check for 1;
         for (long i = a; i <= b; i++) {
