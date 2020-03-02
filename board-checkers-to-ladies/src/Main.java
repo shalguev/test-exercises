@@ -15,9 +15,7 @@ public class Main {
 
         while (y < 8) {
             y++;
-            z++;
 
         }
     }
 }
-// check git access token
