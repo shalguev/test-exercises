@@ -1,4 +1,4 @@
-class Main {
+class SlowRecursiveFib {
   public static void main(String[] args) {
     System.out.println(fib(50));
   }
