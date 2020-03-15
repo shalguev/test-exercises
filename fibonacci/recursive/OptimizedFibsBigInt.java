@@ -1,6 +1,6 @@
 import java.math.*;
 
-class OptimizedFibs {
+class OptimizedFibsBigInt {
   public static void main(String[] args) {
     System.out.println(fib(501)[1]); // fibs from 1st: 1st == 2nd == 1;
   }
